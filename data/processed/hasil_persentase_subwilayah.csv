@@ -1,0 +1,6 @@
+sub_id,nama_sub,luas_total_km2,luas_ideal_km2,pct_15min_city,n_sel_ideal,n_sel_total
+S000,Jakarta Timur,175.01,131.25,75.0,11,14
+S001,Jakarta Utara,139.97,89.17,63.7,9,15
+S002,Jakarta Selatan,142.31,142.31,100.0,11,11
+S003,Jakarta Barat,115.94,79.9,68.9,9,12
+S004,Jakarta Pusat,47.53,47.53,100.0,6,6
