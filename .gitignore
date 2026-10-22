@@ -17,7 +17,12 @@ build/
 cache/
 scratch/
 
-# Large video files (hindari batas ukuran 100MB GitHub)
+# Folder pribadi / lokal (tidak di-track di Git)
+Rekaman/
+Dikumpulkan/
+archive/
+
+# Large video files
 *.mp4
 *.mkv
 *.avi

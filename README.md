@@ -90,25 +90,18 @@ dengan parameter default $\alpha = 0.4$ dan radius tetangga Moore ($8$ sel terde
 │   └── processed/                     # Data hasil klastering & evaluasi spasial (.csv)
 │       ├── hasil_analisis_15min_city.csv
 │       └── hasil_persentase_subwilayah.csv
-├── outputs/
-│   ├── figures/                       # Visualisasi statis (.png) resolusi tinggi
-│   │   ├── 01_sebaran_poi.png
-│   │   ├── 02_elbow_silhouette.png
-│   │   ├── 03_cluster_profiles.png
-│   │   ├── 04_peta_choropleth.png
-│   │   ├── 06_spatial_smoothing_comparison.png
-│   │   ├── 07_persentase_subwilayah.png
-│   │   └── 08_peta_persentase.png
-│   └── maps/                          # Peta geospasial interaktif Folium (.html)
-│       ├── 05_peta_interaktif.html
-│       └── 09_peta_interaktif_persentase.html
-├── Dikumpulkan/
-│   └── 15_minute_city_shannon.ipynb   # Versi notebook siap kumpul (eksekusi inline)
-├── Rekaman/
-│   └── 15_minute_city_shannon.ipynb   # Notebook studi kasus Kota Yogyakarta
-└── archive/                           # Arsip iterasi eksperimen sebelumnya
-    ├── 15_minute_city_pct_filter.ipynb
-    └── main_stm32.c
+└── outputs/
+    ├── figures/                       # Visualisasi statis (.png) resolusi tinggi
+    │   ├── 01_sebaran_poi.png
+    │   ├── 02_elbow_silhouette.png
+    │   ├── 03_cluster_profiles.png
+    │   ├── 04_peta_choropleth.png
+    │   ├── 06_spatial_smoothing_comparison.png
+    │   ├── 07_persentase_subwilayah.png
+    │   └── 08_peta_persentase.png
+    └── maps/                          # Peta geospasial interaktif Folium (.html)
+        ├── 05_peta_interaktif.html
+        └── 09_peta_interaktif_persentase.html
 ```
 
 ---
